@@ -1,6 +1,11 @@
 .masthead {
     background-size: cover;
     min-height: 100vh;
-
+    font-family: 'Times New Roman', Times, serif;
 }
 
+p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: chocolate;
+}
